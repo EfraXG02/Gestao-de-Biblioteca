@@ -32,3 +32,10 @@ Um sistema completo de simulação para gerenciamento de biblioteca desenvolvido
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/EfraXG02/Gestao-de-Biblioteca.git](https://github.com/EfraXG02/Gestao-de-Biblioteca.git)
+
+
+👤 Autor
+
+Desenvolvido por Efraim Fernando (EfraXG02)
+
+Estudante de Engenharia em Informatica, apaixonado por Linux, C# e automação.
